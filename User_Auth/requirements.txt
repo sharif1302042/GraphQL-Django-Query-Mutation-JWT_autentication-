@@ -13,7 +13,7 @@ Naked==0.1.31
 promise==2.2.1
 PyJWT==1.7.1
 pytz==2018.9
-PyYAML==5.1
+PyYAML==5.4
 requests==2.21.0
 Rx==1.6.1
 singledispatch==3.4.0.3
